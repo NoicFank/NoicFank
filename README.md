@@ -1,3 +1,5 @@
+ <img align="right" alt="GIF" src="https://github.com/NoicFank/NoicFank/blob/main/mycat.gif?raw=true" width="500" height="330" />
+ 
 - 👋 Hi, I’m Dingzhu Lurong
 - :school: I graduated from Nankai University
 - 👀 I’m interested in data sampling, big data process, k8s
