@@ -4,4 +4,4 @@
 - :construction_worker_man: I work for Tencent
 - 📫 Reach me by email <archelurong@tencent.com>
 
-[![Noicank's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoicFank&hide=stars)](https://github.com/NoicFank/github-readme-stats)
+[![Noicank's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoicFank&hide=stars&show_icons=true&theme=radical)](https://github.com/NoicFank/github-readme-stats)
