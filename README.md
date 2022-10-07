@@ -2,7 +2,7 @@
  
 - 👋 Hi, I’m Dingzhu Lurong
 - :school: I graduated from Nankai University
-- 👀 I’m interested in data sampling, big data process, k8s
+- 👀 I’m interested in k8s, data sampling, big data process
 - :construction_worker_man: I work for Tencent
 - 📫 Reach me by email <archelurong@tencent.com>
 
